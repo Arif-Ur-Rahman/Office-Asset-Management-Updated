@@ -1,0 +1,30 @@
+{
+    "MyAssets": {
+        "1": "Asset Id",
+        "2": "Asset Name",
+        "3": "Asset Details",
+        "4": "Usage Start",
+        "5": "Used Quantity",
+        "6": "Status",
+        "7": "Comments",
+        "8": "Actions"
+    },
+    "Users": {
+        "1": "EmployeeId",
+        "2": "EmployeeName",
+        "3": "EmployeeEmail",
+        "4": "EmployeeFullName",
+        "5": "EmployeeBatchId",
+        "6": "EmployeesAdmin",
+        "7": "EmployeeNumber",
+        "8": "EmployeeAddress"
+    },
+    "AvailableAssets": {
+        "1": "Asset Id",
+        "2": "Category Id",
+        "3": "Category Name",
+        "4": "Asset Name",
+        "5": "Asset Details",
+        "6": "Actions"
+    }
+}
